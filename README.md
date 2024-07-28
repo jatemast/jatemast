@@ -1,4 +1,4 @@
- # 👋 Hola, soy @jatemast
+ # 👋 Hola, soy Javier Teheran
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás una colección de mis proyectos, contribuciones y colaboraciones. ¡Conectemos y creemos algo increíble juntos!
 
