@@ -30,7 +30,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás una colección de mis proye
 
 ## 🛠 Habilidades y Experiencia
 - **Lenguajes:** PHP, JavaScript, Python, Java
-- **Frameworks:** Laravel, Spring Boot ,react ,django
+- **Frameworks:** Laravel ,codegniter,react ,vuejs.
 - **Bases de Datos:** SQL
 - **Experiencia:** 2 años como desarrollador de software
 - **Educación:** 
